@@ -1,0 +1,25 @@
+nav a,
+.users span:nth-child(2) {
+  color: crimson;
+}
+.cta h2 {
+  color: crimson;
+  font-family: "Lato", sans-serif;
+}
+.about {
+  background: #eaeaea;
+}
+.users span {
+  font-weight: bold;
+}
+
+.creators a:nth-child(odd) {
+  font-family: "Lato", sans-serif;
+  text-decoration: none;
+}
+
+.creators a:nth-child(even) {
+  font-family: "PT Serif", serif;
+  font-weight: bold;
+  text-decoration: none;
+}
